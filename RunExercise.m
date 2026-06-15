@@ -2,8 +2,8 @@
 
 clc; clear; close all;
 
-addpath(fullfile(pwd, 'utilities'))
-addpath(fullfile(pwd, 'utilities_ex1'))
+addpath(fullfile(pwd, 'utilities_bootstrap'))
+addpath(fullfile(pwd, 'utilities_exercise'))
 
 %% 1. Data Loading & Bootstrap
 % Load market data and volatility surface (Assignment 5 Data)
